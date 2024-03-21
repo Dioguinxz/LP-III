@@ -40,6 +40,7 @@ public class Main {
                                 currencyConverter1.convertDolarToReal(dollarValueReal);
                                 break;
 
+
                             case 2:
                                 System.out.println("Enter dollar value:");
                                 double dollarValueEuro = teclado.nextDouble();
